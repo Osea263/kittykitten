@@ -31,7 +31,7 @@ export default function MintPage() {
               NFT Collection
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-             Dive into the purr-fect world of Kitty Kitten 🐾, where adorable NFTs meet the exciting realm of blockchain!
+             Dive into the purr-fect world of Kitty Kitten 🐾 <br/> where adorable NFTs meet the exciting realm of blockchain!
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
               <a
