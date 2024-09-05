@@ -31,12 +31,12 @@ export default function MintPage() {
               NFT Collection
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              Ac euismod vel sit maecenas id pellentesque eu sed consectetur. <br/>
-               Malesuada adipiscing sagittis vel nulla.
+             Dive into the purr-fect world of Kitty Kitten 🐾, where adorable NFTs meet the exciting realm of blockchain!
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
               <a
-                href="https://x.com/eth_kitten"
+                 target="_blank"
+                href="https://x.com/base_kitten"
                 className="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
               >
                 Join Community
